@@ -1,4 +1,3 @@
 # ApiTesting
 
-Pedro Amorim
-Dayane Kelly
+Pedro Amorim e Dayane Kelly
